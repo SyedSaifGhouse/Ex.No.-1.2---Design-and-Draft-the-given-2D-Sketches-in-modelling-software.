@@ -36,7 +36,6 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Screenshot (4)](https://github.com/user-attachments/assets/da2becdd-4b7a-4515-9290-54ae9fbda04e)
 ![Screenshot 2024-10-23 041429](https://github.com/user-attachments/assets/cffccf4f-f436-4620-951b-79597e0c9692)
 
  
